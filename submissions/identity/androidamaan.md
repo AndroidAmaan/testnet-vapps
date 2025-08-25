@@ -3,8 +3,8 @@
 
 **Verification**  
 - GitHub Username: `AndroidAmaan`  
-- Discord ID: `123456789012345678`  
-- Timestamp: `2025-01-15`  
+- Discord ID: `579376965543526400`  
+- Timestamp: `2025-08-24`  
 
 ---
 
@@ -68,7 +68,7 @@ People will use it because it ensures fair rewards and reduces bot abuse.
 ---
 
 ## Contact
-- Telegram: [@amaanwaris](https://t.me/amaanwaris)  
-- Email: yourmail@example.com  
+- Telegram: [@md_amaan_waris](https://t.me/md_amaan_waris)  
+- Email: amaanwaris43@gmail.com
 
 Updates will be shared on GitHub + Discord
